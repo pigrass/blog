@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "测试",
+    "title": "pigrass的轻量博客",
     "description": "",
     "home_page_url": "https://pigrass.github.io/blog",
     "feed_url": "https://pigrass.github.io/blog/feed.json",
@@ -9,6 +9,20 @@
         "name": "pigrass"
     },
     "items": [
+        {
+            "id": "https://pigrass.github.io/blog/2/",
+            "url": "https://pigrass.github.io/blog/2/",
+            "title": "2",
+            "summary": "2",
+            "content_html": "<p>2</p>",
+            "author": {
+                "name": "pigrass"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T12:55:46+08:00",
+            "date_modified": "2026-10-24T12:55:46+08:00"
+        },
         {
             "id": "https://pigrass.github.io/blog/11/",
             "url": "https://pigrass.github.io/blog/11/",

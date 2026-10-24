@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>测试</title>
+    <title>pigrass的轻量博客</title>
     <link href="https://pigrass.github.io/blog/feed.xml" rel="self" />
     <link href="https://pigrass.github.io/blog" />
-    <updated>2026-10-24T12:01:58+08:00</updated>
+    <updated>2026-10-24T12:55:46+08:00</updated>
     <author>
         <name>pigrass</name>
     </author>
     <id>https://pigrass.github.io/blog</id>
 
+    <entry>
+        <title>2</title>
+        <author>
+            <name>pigrass</name>
+        </author>
+        <link href="https://pigrass.github.io/blog/2/"/>
+        <id>https://pigrass.github.io/blog/2/</id>
+
+        <updated>2026-10-24T12:55:46+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>2</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>11</title>
         <author>
