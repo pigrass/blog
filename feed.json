@@ -5,6 +5,7 @@
     "home_page_url": "https://pigrass.github.io/blog",
     "feed_url": "https://pigrass.github.io/blog/feed.json",
     "user_comment": "",
+    "icon": "https://pigrass.github.io/blog/media/website/avatar-3.png",
     "author": {
         "name": "pigrass"
     },
